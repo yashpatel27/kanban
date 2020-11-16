@@ -1,5 +1,6 @@
 
-## Project setup
+## KanbanDB
+### Project local setup
 cd into project directory
 ```
 npm install
