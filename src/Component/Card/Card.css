@@ -1,0 +1,12 @@
+.Right{
+ width: 100%;
+}
+
+.clear{
+  clear: both;
+}
+
+.Left{
+  float: left;
+  width:100%;
+}
